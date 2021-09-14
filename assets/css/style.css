@@ -1795,3 +1795,19 @@ section {
     line-height: 32px;
   }
 }
+.video-text{
+  padding-top: 15%;
+  padding-left: 30%;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 64px;
+  color: rgb(0, 0, 0);
+}
+
+/********************/
+.row2 {
+    width:100%;
+    float:left;
+    text-align:center;
+}
+
