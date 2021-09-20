@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #5846f9;
+  color: #8959ed;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5846f9;
+  background: #8959ed;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #5846f9;
+  border: 6px solid #8959ed;
   border-top-color: #e7e4fe;
   border-radius: 50%;
   width: 60px;
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar .dropdown ul a {
   padding: 10px 20px;
   font-size: 14px;
-  color: #2c4964;
+  color: #8959ed;
 }
 
 .navbar .dropdown ul a i {
@@ -265,7 +265,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #5846f9;
+  color: #8959ed;
 }
 
 .navbar .dropdown:hover > ul {
@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #2c4964;
+  color: #8959ed;
 }
 
 .navbar-mobile a:hover:before, .navbar-mobile li:hover > a:before, .navbar-mobile .active:before {
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #5846f9;
+  color: #8959ed;
 }
 
 .navbar-mobile .getstarted {
@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #5846f9;
+  color: #8959ed;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 90vh;
-  background: linear-gradient(135deg, rgba(19, 30, 48, 0.5) 0%, #000024 100%), linear-gradient(#1ce6d2, #D21EE6), url("../img/hero-bg.jpg") center center no-repeat;
+  background: linear-gradient(135deg, rgba(19, 30, 48, 0.5) 0%, #000024 90%), linear-gradient(#1ce6d2, #D21EE6), url("../img/hero-bg.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -447,7 +447,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-get-started:hover {
   background: #fff;
-  color: #5846f9;
+  color: #8959ed;
 }
 
 #hero .animated {
@@ -589,7 +589,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #5846f9;
+  color: #8959ed;
 }
 
 .about .content p:last-child {
@@ -606,12 +606,12 @@ section {
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
-  background: linear-gradient(45deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(45deg, #8959ed 0%, #7b27d8 100%);
   position: relative;
 }
 
 .about .content .read-more:hover {
-  background: linear-gradient(180deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(180deg, #8959ed 0%, #7b27d8 100%);
 }
 
 .about .content .read-more i {
@@ -789,7 +789,7 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #5846f9;
+  color: #8959ed;
 }
 
 .features .icon-box p {
@@ -876,11 +876,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #5846f9;
+  border: 1px solid #8959ed;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5846f9;
+  background-color: #8959ed;
 }
 
 @media (max-width: 767px) {
@@ -922,7 +922,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #5846f9;
+  background: #8959ed;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1034,11 +1034,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #5846f9;
+  border: 1px solid #8959ed;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5846f9;
+  background-color: #8959ed;
 }
 
 .portfolio-details .portfolio-info {
@@ -1103,7 +1103,7 @@ section {
 
 .pricing h4 {
   font-size: 36px;
-  color: #5846f9;
+  color: #8959ed;
   font-weight: 600;
   font-family: "Roboto", sans-serif;
   margin-bottom: 20px;
@@ -1135,7 +1135,7 @@ section {
 }
 
 .pricing ul i {
-  color: #5846f9;
+  color: #8959ed;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1153,7 +1153,7 @@ section {
 }
 
 .pricing .btn-buy {
-  background: linear-gradient(42deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(42deg, #8959ed 0%, #7b27d8 100%);
   display: inline-block;
   padding: 10px 35px;
   border-radius: 4px;
@@ -1167,12 +1167,12 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  background: linear-gradient(180deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(180deg, #8959ed 0%, #7b27d8 100%);
 }
 
 .pricing .featured h3 {
   color: #fff;
-  background: #5846f9;
+  background: #8959ed;
 }
 
 .pricing .advanced {
@@ -1184,7 +1184,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #5846f9;
+  background: #8959ed;
   color: #fff;
 }
 
@@ -1192,7 +1192,7 @@ section {
 # Frequently Asked Questions
 --------------------------------------------------------------*/
 .faq {
-  background: linear-gradient(42deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(42deg, #8959ed 0%, #7b27d8 100%);
 }
 
 .faq .section-title h2, .faq .section-title p {
@@ -1264,7 +1264,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #5846f9;
+  color: #8959ed;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1294,7 +1294,7 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #5846f9;
+  color: #8959ed;
   border-radius: 50%;
   padding: 8px;
 }
@@ -1368,7 +1368,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #5846f9;
+  border-color: #8959ed;
 }
 
 .contact .php-email-form input {
@@ -1380,7 +1380,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #5846f9;
+  background: #8959ed;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1686,7 +1686,7 @@ section {
 .box16:hover .social{opacity:1;transform:perspective(500px) rotateX(0) rotateY(0) rotateZ(0)}
 .box16 .social:before{content:"";width:50px;height:2px;background:#fff;margin:0 auto;position:absolute;top:-23px;left:0;right:0}
 .box16 .social li{display:inline-block}
-.box16 .social li a{display:block;width:40px;height:40px;line-height:40px;background:#5846f9;margin-right:10px;transition:all .3s ease 0s}
+.box16 .social li a{display:block;width:40px;height:40px;line-height:40px;background:#8959ed;margin-right:10px;transition:all .3s ease 0s}
 .box17 .icon li,.box17 .icon li a{display:inline-block}
 .box16 .social li a:hover{background:#bea041}
 .box16 .social li:last-child a{margin-right:0}
