@@ -1749,10 +1749,17 @@ section {
   background: linear-gradient(135deg, rgba(19, 30, 48, 0.5) 0%, #e8b9f1 100%), linear-gradient(#1ce6d2, #D21EE6);
 }
 
-.services .service-box:hover h3, .services .service-box:hover p, .services .service-box:hover .read-more {
+.services .service-box:hover h3, .services .service-box:hover p, .services .service-box:hover .read-more,.services .service-box:hover ul {
   color: #fff;
 }
-
+.services .service-box:hover i{
+  color: rgb(30, 255, 0);
+}
+.services .service-box ul{
+  list-style-type: none;
+  text-align: flex;
+  padding: 0px 0px;
+}
 .services .service-box:hover .icon {
   background: #fff;
 }
