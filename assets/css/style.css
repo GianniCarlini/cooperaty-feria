@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #8959ed;
+  background: #48AEDD;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: #6758D8;
+  background: #7375E7;
   padding: 12px 0;
 }
 
@@ -139,12 +139,13 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 
-#header .logo a {
+#header .logo h1 {
   color: #fff;
+  padding-inline-start: 10px;
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 72px;
 }
 
 /*--------------------------------------------------------------
@@ -1469,7 +1470,7 @@ section {
 .footer {
   position: relative;
   width: 100%;
-  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
+  background: linear-gradient(45deg, rgba(115, 117, 231, 0.9) 0%, rgba(159, 61, 242, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
   background-size: cover;
   padding: 10px 0;
   z-index: 1;
@@ -1491,7 +1492,7 @@ section {
 .footer .credits .slice-footer {
   width: 20%;
   height: 100%;
-  margin-top: -25px;
+  margin-top: -10px;
 }
 .slice-footer {
   width: 20%;
